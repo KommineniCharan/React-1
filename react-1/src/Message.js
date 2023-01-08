@@ -1,7 +1,9 @@
+import "./Message.css";
+
 function Message() {
   return (
     <div>
-      <h2>Welcome to Message.js</h2>
+      <h2 className="mes">Welcome to Message.js</h2>
     </div>
   );
 }
