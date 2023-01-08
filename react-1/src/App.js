@@ -1,11 +1,11 @@
 //import CompA from "./Components/CompA";
 
-import FCA from "./Components/FCA";
+import User from "./Components/User";
 
 function App() {
   return (
     <div>
-      <FCA />
+      <User />
     </div>
   );
 }
