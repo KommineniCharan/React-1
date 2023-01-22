@@ -1,11 +1,12 @@
 //import CompA from "./Components/CompA";
 
-import User from "./Components/User";
+import Handler from "./Components/Handler";
+//import User from "./Components/User";
 
 function App() {
   return (
     <div>
-      <User />
+      <Handler />
     </div>
   );
 }
